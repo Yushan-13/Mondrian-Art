@@ -2,7 +2,7 @@ import java.util.*;
 import java.awt.*;
 
 /*
-Yushan Huang CSE 123 BK
+Yushan Huang
 This Mondrian class generates basic Mondrian art and comoplex Mondrian art
 by randomly splitting the canvas with height and width limit and filling random
 color into each region.
