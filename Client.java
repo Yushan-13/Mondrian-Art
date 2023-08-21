@@ -4,7 +4,7 @@ import java.awt.*;
 public class Client {
     public static void main(String[] args) throws Exception {
         Scanner console = new Scanner(System.in);
-        System.out.println("Welcome to the CSE 123 Mondrian Art Generator!");
+        System.out.println("Welcome to the Mondrian Art Generator!");
 
         int choice = 0;
         while (choice != 1 && choice != 2) {
